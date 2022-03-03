@@ -10,7 +10,7 @@
 #                                                                              #
 # **************************************************************************** #
 
-NAME	= minishell
+NAME	= name
 INCLUDE = ./include/
 LIBFT	= ./libft/libft.a
 CFLAGS	+= -Wall -Werror -Wextra
